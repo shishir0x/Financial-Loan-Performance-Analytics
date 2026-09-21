@@ -94,12 +94,10 @@ GROUP BY
 
 ---
 
+---
+
 ## 👤 Author
-* **Shishir Pandey**
-* **Portfolio:** [shishirpandey085.com.np](https://shishirpandey085.com.np)
-* **LinkedIn:** [linkedin.com/in/shishir0x](https://www.linkedin.com/in/shishir0x)
-* **GitHub:** [github.com/shishir085](https://github.com/shishir085)
-* **Contact:** shishirpandey085@gmail.com | +977 9843206000
+Developed and maintained by **[Shishir Pandey](https://github.com/shishir0x)**.
 
 ---
 *License: MIT License*

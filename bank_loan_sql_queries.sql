@@ -1,8 +1,6 @@
 -- ====================================================================
 -- Bank Loan Portfolio & Risk Performance Analytics
--- Author: Shishir Pandey
--- Portfolio: https://shishirpandey085.com.np
--- GitHub: https://github.com/shishir085
+-- Author: Shishir Pandey (https://github.com/shishir0x)
 -- Database: PostgreSQL / MySQL / SQL Server Compatible
 -- ====================================================================
 
