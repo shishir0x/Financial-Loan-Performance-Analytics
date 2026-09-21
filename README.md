@@ -52,9 +52,10 @@ The primary objective of this project is to provide executive banking stakeholde
 
 ## 📂 Repository Structure
 ```text
-├── Bank Loan Performance Power BI Project.pbix  <-- Interactive Power BI Dashboard
+├── bank_loan_analysis.pbix                      <-- Interactive Power BI Dashboard
 ├── bank_loan_sql_queries.sql                    <-- SQL Financial Extraction Scripts
 ├── financial_loan.csv                           <-- Raw Loan Transaction Dataset
+├── bank_loan_dashboard_report.pdf               <-- Exported PDF Dashboard Report
 ├── Details.jpg                                  <-- Dashboard Preview (Details View)
 ├── Overview.jpg                                 <-- Dashboard Preview (Overview View)
 ├── Synopsis.jpg                                 <-- Dashboard Preview (Summary View)
