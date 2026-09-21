@@ -46,7 +46,7 @@ The primary objective of this project is to provide executive banking stakeholde
 ## 🛠️ Technology Stack & Workflow
 * **SQL:** Data cleaning, financial KPI calculations, conditional aggregations (`CASE WHEN`), Month-over-Month (MoM) growth queries (`bank_loan_sql_queries.sql`).
 * **Microsoft Excel (Power Query & XLOOKUP):** Data validation, categorical risk banding, and formula verification (`financial_loan.csv`).
-* **Power BI:** Data modeling, custom DAX measures, time-intelligence functions, multi-page report design (`Bank Loan Performance Power BI Project.pbix`).
+* **Power BI:** Data modeling, custom DAX measures, time-intelligence functions, multi-page report design (`bank_loan_analysis.pbix`).
 
 ---
 
@@ -97,7 +97,7 @@ GROUP BY
 ---
 
 ## 👤 Author
-Developed and maintained by **[Shishir Pandey](https://github.com/shishir0x)**.
+Developed and maintained by **[shishir0x](https://github.com/shishir0x)**.
 
 ---
 *License: MIT License*
