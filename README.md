@@ -1,15 +1,15 @@
-# 🏦 Bank Loan Portfolio & Risk Performance Analysis
+# 🏦 Financial Loan Performance & Credit Risk Analytics Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL%2FMySQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-An end-to-end financial data analytics and risk modeling project evaluating **38,500+ loan records** to monitor lending health, credit risk metrics, repayment cash flows, and borrower profiles using **SQL queries, Microsoft Excel, and interactive Power BI dashboards**.
+An end-to-end financial loan performance analytics and credit risk modeling project evaluating **38,500+ loan records** to monitor lending health, credit risk metrics, repayment cash flows, and borrower profiles using **SQL queries, Microsoft Excel, and interactive Power BI dashboards**.
 
 ---
 
 ## 🎯 Project Overview & Objectives
-The primary objective of this project is to provide executive banking stakeholders with actionable visibility into loan portfolio health, borrower creditworthiness, and default risk trends.
+The primary objective of this project is to provide executive financial stakeholders with actionable visibility into loan portfolio performance, borrower creditworthiness, and default risk trends.
 
 ### Core Business Questions Addressed:
 1. **Portfolio Health:** What is the total volume of funded loans vs. repayments received?
